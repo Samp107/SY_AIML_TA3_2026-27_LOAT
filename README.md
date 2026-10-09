@@ -1,6 +1,6 @@
 # TA3 Component (5 marks):
 
-## Use of programing language to understands the concepts of Mathematics
+## Use of Python programming to implement Linear Algebra concepts for Machine Learning.
 
 >```Student have to use python programing language to understand the practical approach of Linear algebra in machine learning```
 
