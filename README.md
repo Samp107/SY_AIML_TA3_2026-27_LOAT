@@ -15,7 +15,7 @@
 | 6  | Linear Independence  |
 | 7  | The Singular Value Decomposition  |
 | 8  | Vector Addition Subtraction and Scalar Multiplication  |
-| 9  | Vector Space and Subspace  |
+| 9  | Newton Method |
 
 
 
